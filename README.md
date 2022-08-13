@@ -17,7 +17,7 @@ Link : [freeCodeCamp.org](https://www.freecodecamp.org/learn/relational-database
 #### Task
 Make world cup database on **PostgreSQL**  
 and dump the file into :  
-- [X]worldcup.sql  
+- [x] worldcup.sql  
 Build up shell script : 
 - [x] insert_data.sh
 - [x] queries.sh
