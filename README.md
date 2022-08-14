@@ -1,4 +1,4 @@
-## Build a world cup data base 
+## Build a world cup database 
 
 --- 
 
